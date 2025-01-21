@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Scriptk1ddie
 
-<!---
-Scriptk1ddie/Scriptk1ddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Technologies & Tools
+- Programming Languages: Python, Bash, JavaScript, C#
+- Platforms: Linux, Windows
+
+## 📈 GitHub Stats
+![Scriptk1ddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scriptk1ddie&show_icons=true&theme=radical)
